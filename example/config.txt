@@ -1,0 +1,2 @@
+Prefix plugins/FASTQStats/example/
+Plugin FASTQStats inputfile S12_R1.fastq outputfile none
