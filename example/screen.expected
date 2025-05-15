@@ -23,21 +23,21 @@
 *                                                                                 *
 ***********************************************************************************
 [PluMA] Running Plugin: FASTQStats
-reads   250
-len     151
-len mean        151.0000
-len stdev       0.0000
-len min 151
-phred   33
-window-size     250
-cycle-max       35
-qual min        2
-qual max        37
-qual mean       35.4834
-qual stdev      6.2510
-%A      22.6857
-%C      25.9429
-%G      25.9657
-%T      23.0286
-%N      2.3771
-total bases     37750
+reads	250
+len	151
+len mean	151.0000
+len stdev	0.0000
+len min	151
+phred	33
+window-size	250
+cycle-max	35
+qual min	2
+qual max	37
+qual mean	35.4834
+qual stdev	6.2510
+%A	22.6857
+%C	25.9429
+%G	25.9657
+%T	23.0286
+%N	2.3771
+total bases	37750
